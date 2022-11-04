@@ -1,0 +1,15 @@
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\bin\Debug\net6.0\EjercicioSWITCH.exe
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\bin\Debug\net6.0\EjercicioSWITCH.deps.json
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\bin\Debug\net6.0\EjercicioSWITCH.runtimeconfig.json
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\bin\Debug\net6.0\EjercicioSWITCH.dll
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\bin\Debug\net6.0\EjercicioSWITCH.pdb
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\EjercicioSWITCH.csproj.AssemblyReference.cache
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\EjercicioSWITCH.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\EjercicioSWITCH.AssemblyInfoInputs.cache
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\EjercicioSWITCH.AssemblyInfo.cs
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\EjercicioSWITCH.csproj.CoreCompileInputs.cache
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\EjercicioSWITCH.dll
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\refint\EjercicioSWITCH.dll
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\EjercicioSWITCH.pdb
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\EjercicioSWITCH.genruntimeconfig.cache
+F:\C# Projects\OpenBootcamp\Sessão 5\Condicionales\EjercicioSWITCH\obj\Debug\net6.0\ref\EjercicioSWITCH.dll
